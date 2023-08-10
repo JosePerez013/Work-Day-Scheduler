@@ -8,7 +8,7 @@ You can keep track of your plans throughout the day for the past, present, and f
 
 ## Installation
 
-No installation is required. Simply access the [live site]().
+No installation is required. Simply access the [live site](https://joseperez013.github.io/Work-Day-Scheduler/).
 
 ## Usage
 
